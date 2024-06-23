@@ -1,0 +1,6 @@
+Cities in the graph: ['Istanbul', 'Ankara', 'Hakkari', 'Kayseri', 'Trabzon']
+Edges in the graph: [('Istanbul', 'Ankara'), ('Istanbul', 'Hakkari'), ('Ankara', 'Kayseri'), ('Ankara', 'Hakkari'), ('Ankara', 'Trabzon'), ('Hakkari', 'Trabzon')]
+Not enough values for Q1 query. Skipping.
+Q2: Common nodes between Istanbul and Kayseri: ['Ankara']
+No path found from Kayseri to Ankara with Railway.
+Error: Invalid ADD query format. Skipping.

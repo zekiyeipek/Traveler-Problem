@@ -1,0 +1,23 @@
+Highway 
+Cities Istanbul  Ankara  Kayseri  Hakkari  Trabzon
+Istanbul  0  1  0  1  0
+Ankara  1  0  1  1  1
+Kayseri  0  1  0  0  0
+Hakkari  1  1  0  0  1
+Trabzon  0  1  0  1  0
+
+Airway
+Cities Istanbul  Ankara  Kayseri  Hakkari  Trabzon
+Istanbul  0  1  0  1  0
+Ankara  1  0  1  1  1
+Kayseri  0  1  0  0  0
+Hakkari  1  1  0  0  1
+Trabzon  0  1  0  1  0
+
+Railway
+Cities Istanbul  Ankara  Kayseri  Hakkari  Trabzon
+Istanbul  0  1  0  1  0
+Ankara  1  0  1  1  1
+Kayseri  0  1  0  0  0
+Hakkari  1  1  0  0  1
+Trabzon  0  1  0  1  0
